@@ -1,0 +1,25 @@
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.sdf
+*.ipch
+*.tlog
+*.log
+
+# VS files
+*.user
+*.vspscc
+*.vssscc
+*.suo
+.vs/
+
+# Temp
+*.bak
+*.bak1
+*.tmp
+*.gbk
